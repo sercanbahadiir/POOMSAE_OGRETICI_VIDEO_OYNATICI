@@ -77,11 +77,3 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 - **Not Alma**: Sağ tarafta yer alan not alanına istediğiniz notları yazabilirsiniz. Uygulama kapatıldığında notlar `notes.txt` dosyasına kaydedilir.
 
 - **Tema Değiştirme**: Sağ alt köşedeki `☀🌙` butonuna tıklayarak aydınlık ve karanlık mod arasında geçiş yapabilirsiniz.
-
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen bir `issue` açın veya bir `pull request` gönderin.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
