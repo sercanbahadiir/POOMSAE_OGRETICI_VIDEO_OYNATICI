@@ -33,7 +33,7 @@ Poomsae Öğretici Video Oynatıcı, taekwondo poomsae'leri öğretmek için kul
     pip install tkinter pillow opencv-python
     ```
 
-3. Proje dosyalarını aşağıdaki gibi düzenleyin. Gerekli dosya ve dizinlerin doğru konumda olduğundan emin olun:
+3. Proje dosyalarını bu linkten indirip (https://github.com/sercanbahadiir/POOMSAE_OGRETICI_VIDEO_OYNATICI/tree/main/POOMSAE_OGRETICI_VIDEO_OYNATICI) aşağıdaki gibi düzenleyin. Gerekli dosya ve dizinlerin doğru konumda olduğundan emin olun:
     ```
     proje_dizini/
     ├── icons/
