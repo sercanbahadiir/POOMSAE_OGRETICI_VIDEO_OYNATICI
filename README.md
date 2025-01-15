@@ -23,10 +23,7 @@ Poomsae Öğretici Video Oynatıcı, taekwondo poomsae'leri öğretmek için kul
 ## Kurulum
 
 1. Bu projeyi klonlayın veya indirin.
-    ```sh
-    git clone <repo-url>
-    cd <repo-folder>
-    ```
+ (3. adımdan)
 
 2. Gerekli Python kütüphanelerini yükleyin. Bu kütüphaneleri yüklemek için `pip` kullanabilirsiniz:
     ```sh
